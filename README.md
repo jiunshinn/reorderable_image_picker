@@ -1,17 +1,8 @@
 
 # reorderable_image_picker
 
-A new Flutter project.
+## 이미지를 선택한 후 순서를 바꿀 수 있도록 만든 샘플 코드
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+사용한 플러그인
+https://pub.dev/packages/image_picker
+https://pub.dev/packages/reorderable_grid
